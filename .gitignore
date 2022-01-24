@@ -1,4 +1,5 @@
 node_modules/
+.openzeppelin/
 package-lock.json
 .idea/
 build/
